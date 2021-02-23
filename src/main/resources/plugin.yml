@@ -1,0 +1,4 @@
+name: RightClickEntity
+version: 1.0
+main: com.darrime.main.Main
+api-version: 1.16
